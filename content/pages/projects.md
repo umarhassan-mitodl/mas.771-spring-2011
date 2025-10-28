@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the final project of the course
   and examples of past student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,4 +40,4 @@ The presentation will be in class and should cover the same points that the repo
 
 **Examples**
 
-Examples of past student work can be found on the [2011 course webpage](http://courses.media.mit.edu/2011spring/mas771/finalprojects.html).
+Examples of past student work can be found on the {{% resource_link "b62588fa-eccf-44f2-b5b2-e1974c8681ac" "2011 course webpage" %}}.
